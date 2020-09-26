@@ -2,3 +2,17 @@
 	border-radius: 0;
 	border: 0;
 }
+
+#nav-list {
+	background-color: #DCDCDC;
+	text-align: center;
+}
+
+.navbar-nav {
+	margin: 0px -15px;
+}
+
+#a-bunch-of-text {
+	background-color: #B0C4DE;
+	padding: 30px;
+}
